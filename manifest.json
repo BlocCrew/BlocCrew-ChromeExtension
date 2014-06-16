@@ -11,7 +11,8 @@
 		"default_popup": "popup.html"
 	},
 	"content_security_policy": "script-src 'self' https://www.google.com; object-src 'self'",
-	"icons": {
+    "icons": {
 		"128": "icon.png"
 	}
+    "permissions": ["http://bloccrew.com/"]
 }

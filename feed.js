@@ -19,4 +19,5 @@ function initialize() {
 	}
   });
 }
+
 google.setOnLoadCallback(initialize);
